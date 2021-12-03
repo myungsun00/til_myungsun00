@@ -16,6 +16,10 @@
 - [조건문](#조건문)
     - [if문](#if문)
     - [switch문](#switch문)
+- [반복문](#반복문)
+    - [for문](#for문)
+    - [while문](#while문)
+    - [do while문](#do-while문)
 
 ## HelloWorld.java
 ```java
@@ -352,3 +356,31 @@ switch (조건값) {
 }
 ```
 - default와 break문
+
+## 반복문
+: 조건이 참일때 수식 반복수행
+### for문
+- 
+    ```java
+    for(초기값; 조건식; 증감값)
+    {
+        반복할 수식;
+    }
+    ```
+### while문
+- 
+    ```java
+    초기값;
+    while(조건식){
+        반복할 수식;
+        증감값;
+    }
+    ```
+### do while문
+- do while : 조건식이 false여도 무조건 한번은 수행된다.
+    ```java
+    do{
+        반복할 수식;
+        증감값;
+    } while(조건식);
+    ```
