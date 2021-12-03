@@ -4,7 +4,7 @@
 - [변수](#변수)
     - [변수선언](#변수선언)
     - [변수명](#변수명)
-    - [선언 위치와 변수](#선언-위치와-변수-공부-필요)
+    - [선언 위치와 변수 (공부필요)](#선언-위치와-변수-공부-필요)
 - [자료형](#자료형)
     - [기본자료형](#기본자료형)
     - [참조자료형 (공부필요)](#참조자료형-공부-필요)
@@ -37,7 +37,7 @@ public class HelloWorld {
 - 숫자로 시작 불가
 - _와 $ 외 특수문자 사용불가
 
-> ### 선언 위치와 변수 <span style="color:brown">(공부 필요)</span>
+> ### 선언 위치와 변수 (공부 필요)
 > - 멤버변수
 >    - 선언 위치 : 클래스 영역
 >    - 클래스변수
@@ -81,7 +81,7 @@ public class HelloWorld {
         - boolean (1byte)
             - 참 or 거짓 값 / true or false
 
-> ### 참조자료형 <span style="color:brown">(공부 필요)</span>
+> ### 참조자료형 (공부 필요)
 > - new 키워드로 생성한 객체
 > - String과 배열은 new 없이 생성하는 참조 자료형
 > - 임의로 내가 원하는 클래스를 만들어 참조 자료형으로 사용 가능.
@@ -99,7 +99,7 @@ public class HelloWorld {
 >       클래스명 객체명 = new 클래스명();
 >       ```
 >
->     > - Interface Type <span style="color:brown">(공부 필요)</span>
+>     > - Interface Type (공부 필요)
 >     >   ```java
 >     >   interface name<T>{
 >     >       void number(T value);
