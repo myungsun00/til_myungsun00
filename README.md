@@ -10,6 +10,12 @@
 
 ## Categories
 * [Java](#java)
+***
+- [scrap](#scrap)
 
 ## Java
 * [Java 입문](https://github.com/myungsun00/til_myungsun00/blob/main/Java/Java_%EC%9E%85%EB%AC%B8.md#java-%EC%9E%85%EB%AC%B8)
+
+## scrap
+- [book (읽고 싶은, 읽고 있는, 읽은)](https://github.com/myungsun00/til_myungsun00/blob/main/scrap/book.md)
+- [Need to Study](https://github.com/myungsun00/til_myungsun00/blob/main/scrap/needToStudy.md)
