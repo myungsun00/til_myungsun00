@@ -18,6 +18,7 @@
     - [switch문](#switch문)
 - [반복문](#반복문)
     - [for문](#for문)
+    - [for each문](#for-each문)
     - [while문](#while문)
     - [do while문](#do-while문)
 
@@ -366,7 +367,30 @@ switch (조건값) {
     {
         반복할 수식;
     }
+
+    //예제
+    String[] fruits = {'lemon','cherry','mango'};
+    for(int i=0; i<fruits.length; i++) {
+        System.out.println(fruits[i]);
+    }
     ```
+### for each문
+- for each는 J2SE 5.0 부터 추가됨
+- 조건식 부분이 조금 다름
+    ```java
+    for (자료형 변수명: iterate) {
+        반복할 수식;
+    }
+
+    //예제
+    String[] fruits = {'lemon','cherry','mango'};
+    for (String fruit : fruits) {
+        System.out.println(fruit);
+    }
+    ```
+    - iterate : 루프를 돌릴 객체
+    - iterate 객체에서 한개씩 순차적으로 var에 대입되어 for문을 수행
+    - iterate부분에 들어가는 타입은 루프를 돌릴수 있는 형태인 배열 및 ArrayList등이 가능
 ### while문
 - 
     ```java
