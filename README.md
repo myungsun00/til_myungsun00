@@ -9,12 +9,18 @@
     - 관련 정보를 찾아보며 검토하는 것 뿐만 아니라 몰랐던 사실을 보충할 수 있다.
 
 ## Categories
-* [Java](#java)
+- [Java](#java)
+- [Terminal](#terminal)
 ***
 - [scrap](#scrap)
 
 ## Java
-* [Java 입문](https://github.com/myungsun00/til_myungsun00/blob/main/Java/Java_%EC%9E%85%EB%AC%B8.md#java-%EC%9E%85%EB%AC%B8)
+- [Java 입문](https://github.com/myungsun00/til_myungsun00/blob/main/Java/Java_%EC%9E%85%EB%AC%B8.md#java-%EC%9E%85%EB%AC%B8)
+- [Java 입문2](https://)
+
+## Terminal
+- [Unix 터미널 명령어](#)
+- [Vim 사용법](#)
 
 ## scrap
 - [book (읽고 싶은, 읽고 있는, 읽은)](https://github.com/myungsun00/til_myungsun00/blob/main/scrap/book.md)
